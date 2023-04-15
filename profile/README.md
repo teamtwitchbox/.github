@@ -1,4 +1,4 @@
-[![]()](https://github.com/sandunwira/TwitchBox)
+[![twitchbox gh](https://user-images.githubusercontent.com/79461263/232226503-3049cb81-e2e5-491c-ae5f-7d1199576fef.png)](https://github.com/sandunwira/TwitchBox)
 
 [![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%236441A5.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/p/twitchbox)
 [![MAIL](https://img.shields.io/badge/MAIL-%236441A5.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:teamtwitchbox@gmail.com)
